@@ -1,52 +1,55 @@
-<h1 align="center">Hi 👋, I'm Gudem Keerthana</h1>
-<h3 align="center">Computer Science Student | Machine Learning Enthusiast | IoT Explorer</h3>
+# Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Django+Developer;IoT+Explorer;Always+Learning+New+Technologies" />
-</p>
+## 💫 About Me:
+
+🎓 Computer Science Student
+
+🤖 Passionate about Machine Learning & Deep Learning
+
+🌐 Learning Full-Stack Development with Django
+
+📡 IoT Enthusiast
+
+💾 Interested in Database Systems and Backend Development
+
+🚀 Building practical solutions using AI and modern web technologies
+
+📚 Continuously improving programming and problem-solving skills
 
 ---
 
-## 🚀 About Me
+## 🌐 Socials:
 
-- 🎓 Computer Science Student
-- 🤖 Passionate about Machine Learning & Deep Learning
-- 🌐 Learning Full-Stack Development with Django
-- 📡 IoT Enthusiast
-- 💾 Interested in Database Systems and Backend Development
-- 📚 Constantly exploring new technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthana-gudem)
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/Database-336791?style=for-the-badge)
 
-### Interests
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-00C853?style=for-the-badge)
 
 ---
 
-## 💊 Featured Project
+## 🚀 Featured Project
 
-### Detection and Identification of Pills Using Deep Learning
+### 💊 Detection and Identification of Pills Using Deep Learning
 
-A deep learning-based healthcare application that identifies and classifies pharmaceutical pills from images.
+A Deep Learning and Computer Vision project that identifies pharmaceutical pills from images and assists in accurate medicine recognition.
 
-**Technologies Used**
+**Technologies Used:**
 - Python
 - Deep Learning
 - Computer Vision
@@ -54,33 +57,32 @@ A deep learning-based healthcare application that identifies and classifies phar
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudemkeerthana04-maker&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=gudemkeerthana04-maker&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gudemkeerthana04-maker)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gudemkeerthana04-maker&theme=default&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gudemkeerthana04-maker&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gudemkeerthana04-maker&theme=default&hide_border=false&layout=compact)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Django
-- Deep Learning
-- AI Applications
+- Advanced Django Development
+- Deep Learning Applications
+- AI Model Deployment
 - Database Optimization
+- Full Stack Web Development
 
 ---
 
-## 🌐 Connect With Me
+### ✍️ Quote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keerthana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthana-gudem)
+> "Learning never exhausts the mind. Every project is a step toward innovation."
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gudemkeerthana04-maker&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![](https://komarev.com/ghpvc/?username=gudemkeerthana04-maker&label=Profile+Views)
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
